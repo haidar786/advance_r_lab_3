@@ -1,1 +1,1 @@
-print('ali')
+test('husnain')
